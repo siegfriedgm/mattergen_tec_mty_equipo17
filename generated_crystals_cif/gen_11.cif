@@ -1,0 +1,35 @@
+data_image0
+_chemical_formula_structural       PrRhPr3RhPrRhYbRh
+_chemical_formula_sum              "Pr5 Rh4 Yb1"
+_cell_length_a       3.5823607680003504
+_cell_length_b       5.103039439615629
+_cell_length_c       13.540382385253906
+_cell_angle_alpha    90.06249872893974
+_cell_angle_beta     97.70759720063326
+_cell_angle_gamma    89.99181310793162
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.22020386159420013  0.5400662422180176  0.7096374630928041  1.0000
+  Rh  Rh1       1.0  0.8964426517486572  0.03866998478770256  0.05840880051255227  1.0000
+  Pr  Pr2       1.0  0.5729125142097473  0.5383432507514954  0.4112884402275086  1.0000
+  Pr  Pr3       1.0  0.48465695977210993  0.037596434354782104  0.23191070556640628  1.0000
+  Pr  Pr4       1.0  0.13225558400154114  0.03825637698173523  0.530616044998169  1.0000
+  Rh  Rh2       1.0  0.9851835966110228  0.5384007692337036  0.2364211678504944  1.0000
+  Pr  Pr5       1.0  0.3927921950817108  0.5383508801460266  0.05125279352068902  1.0000
+  Rh  Rh3       1.0  0.8050704002380371  0.539820671081543  0.8779258131980897  1.0000
+  Yb  Yb1       1.0  0.3059753477573395  0.03909308463335037  0.8800748586654664  1.0000
+  Rh  Rh4       1.0  0.7167006134986877  0.03943124786019325  0.7016220688819886  1.0000

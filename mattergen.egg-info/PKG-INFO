@@ -16,7 +16,7 @@ Requires-Python: >=3.10
 Description-Content-Type: text/markdown
 License-File: LICENSE
 License-File: NOTICE
-Requires-Dist: ase>=3.22.1
+Requires-Dist: ase<=3.25.0
 Requires-Dist: autopep8
 Requires-Dist: cachetools
 Requires-Dist: contextlib2

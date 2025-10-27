@@ -1,0 +1,31 @@
+data_image0
+_chemical_formula_structural       NbHf3Nb2
+_chemical_formula_sum              "Nb3 Hf3"
+_cell_length_a       2.9411621542774995
+_cell_length_b       2.9442942812079647
+_cell_length_c       14.468415260314941
+_cell_angle_alpha    90.13100553052186
+_cell_angle_beta     90.09564563288555
+_cell_angle_gamma    111.14660023840119
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Nb  Nb1       1.0  0.9006868004798888  0.38169217109680176  0.44268196821212774  1.0000
+  Hf  Hf1       1.0  0.9008272290229795  0.3804162442684173  0.788728415966034  1.0000
+  Hf  Hf2       1.0  0.4008589088916778  0.8792802095413208  0.2752619981765747  1.0000
+  Hf  Hf3       1.0  0.40156355500221247  0.8783586025238037  0.6063972711563111  1.0000
+  Nb  Nb2       1.0  0.3989524841308593  0.8795252442359924  0.954658329486847  1.0000
+  Nb  Nb3       1.0  0.9000648260116576  0.3788986206054687  0.10795712471008302  1.0000

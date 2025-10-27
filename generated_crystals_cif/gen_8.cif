@@ -1,0 +1,28 @@
+data_image0
+_chemical_formula_structural       PrAsNi
+_chemical_formula_sum              "Pr1 As1 Ni1"
+_cell_length_a       4.114401358759184
+_cell_length_b       4.130060281884937
+_cell_length_c       4.131026744842529
+_cell_angle_alpha    120.01568612511169
+_cell_angle_beta     89.99459982508482
+_cell_angle_gamma    90.00576718421793
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Pr  Pr1       1.0  0.9953932762145996  0.9810953736305237  0.31715428829193115  1.0000
+  As  As1       1.0  0.4953621029853821  0.6476552486419678  0.6502900123596191  1.0000
+  Ni  Ni1       1.0  0.4951251745223999  0.3142489194869995  0.9837886095046997  1.0000
